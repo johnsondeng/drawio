@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T07:54:14.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="7535T8BilTWAf20IkJ5p" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T07:55:53.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="xKyWFV8_n3STxTpm3rZX" version="14.2.7" type="github">
   <diagram id="xDiMFhPvw6MK4APp4FO1" name="Page-1">
     <mxGraphModel dx="1042" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="uX3aSrafVGmmTzADLKMs-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uX3aSrafVGmmTzADLKMs-36" target="uX3aSrafVGmmTzADLKMs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uX3aSrafVGmmTzADLKMs-36" value="web接口交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uX3aSrafVGmmTzADLKMs-36" value="应用接口交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uX3aSrafVGmmTzADLKMs-38" value="" style="group" vertex="1" connectable="0" parent="1">
