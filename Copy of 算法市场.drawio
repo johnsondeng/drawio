@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T06:34:17.301Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ULtDetmdhua62IC0IPEb" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T06:35:05.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="cu4FzrHNkuwUfdjk83oh" version="14.2.7" type="github">
   <diagram id="YmtFJk84zcoor4C9bl3p" name="Page-1">
-    <mxGraphModel dx="1797" dy="651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-1" value="AI工作室" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="197" y="686" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="688" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ch-WJiWabACL-3RTD092-2" target="Ch-WJiWabACL-3RTD092-13">
           <mxGeometry relative="1" as="geometry" />
@@ -158,20 +158,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-2" value="EMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="686" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="688" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="844" as="sourcePoint" />
-            <mxPoint x="618" y="844" as="targetPoint" />
+            <mxPoint x="83" y="846" as="sourcePoint" />
+            <mxPoint x="746" y="846" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-6" value="设备中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="26" y="686" width="123" height="56" as="geometry" />
+          <mxGeometry x="154" y="688" width="123" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="Ch-WJiWabACL-3RTD092-10" target="Ch-WJiWabACL-3RTD092-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="334" y="914" as="targetPoint" />
+            <mxPoint x="462" y="916" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-21" value="tke-edge实现边缘节点管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ch-WJiWabACL-3RTD092-20">
@@ -180,19 +180,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-7" value="边缘管理tke-edge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="798" width="120" height="34" as="geometry" />
+          <mxGeometry x="358" y="800" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="48" y="906" width="171" height="163" as="geometry" />
+          <mxGeometry x="176" y="908" width="171" height="163" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-10" value="边缘管理tke-edge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73.5" y="906" width="120" height="34" as="geometry" />
+          <mxGeometry x="201.5" y="908" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-11" value="算法服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73.5" y="997" width="120" height="34" as="geometry" />
+          <mxGeometry x="201.5" y="999" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-13" value="云集群tke" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="442" y="799" width="120" height="34" as="geometry" />
+          <mxGeometry x="570" y="801" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="Ch-WJiWabACL-3RTD092-14" target="Ch-WJiWabACL-3RTD092-6">
           <mxGeometry relative="1" as="geometry" />
@@ -206,7 +206,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ch-WJiWabACL-3RTD092-14" value="AI工作室执行器？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73.5" y="954" width="120" height="34" as="geometry" />
+          <mxGeometry x="201.5" y="956" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
