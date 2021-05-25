@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T06:15:25.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NlwvbZpL0R6a5S2SNtJQ" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T06:17:27.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ZBqIrZYOIxT8vY7-VLo-" version="14.7.0" type="github">
   <diagram id="YmtFJk84zcoor4C9bl3p" name="Page-1">
     <mxGraphModel dx="970" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VzdiT-V1vsHG-L7rN4JF-17" value="ti-auth-proxy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="VzdiT-V1vsHG-L7rN4JF-17" value="定制化proxy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="371" y="709" width="52" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VzdiT-V1vsHG-L7rN4JF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="VzdiT-V1vsHG-L7rN4JF-22" target="VzdiT-V1vsHG-L7rN4JF-17">
