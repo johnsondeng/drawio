@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T11:28:27.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="14.7.0" etag="G9FR5MH0GE7lu85sqsY9" type="github"><diagram id="UTq4NvM6k1sTOR71W8jB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-29T11:34:27.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="71bidJL7q9GRfepVYaIF" version="14.7.0" type="github">
+  <diagram id="UTq4NvM6k1sTOR71W8jB" name="Page-1">
+    <mxGraphModel dx="976" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YIFS5euJt_vbsXzheC0i-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YIFS5euJt_vbsXzheC0i-1" target="YIFS5euJt_vbsXzheC0i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-10" value="日志扫描" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YIFS5euJt_vbsXzheC0i-9">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YIFS5euJt_vbsXzheC0i-1" target="YIFS5euJt_vbsXzheC0i-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-19" value="特征存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YIFS5euJt_vbsXzheC0i-18">
+          <mxGeometry x="0.0167" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-1" value="qqmusic-ar&lt;br&gt;识别服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YIFS5euJt_vbsXzheC0i-2" target="YIFS5euJt_vbsXzheC0i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-12" value="rsync同步新增ID列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YIFS5euJt_vbsXzheC0i-5">
+          <mxGeometry x="-0.1647" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YIFS5euJt_vbsXzheC0i-2" target="YIFS5euJt_vbsXzheC0i-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-14" value="注册图片/识别图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YIFS5euJt_vbsXzheC0i-13">
+          <mxGeometry x="0.0556" y="11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-2" value="音乐运营后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YIFS5euJt_vbsXzheC0i-3" target="YIFS5euJt_vbsXzheC0i-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-15" value="rsync每日识别库列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YIFS5euJt_vbsXzheC0i-6">
+          <mxGeometry x="-0.0857" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-3" value="识别库列表生成脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YIFS5euJt_vbsXzheC0i-7" target="YIFS5euJt_vbsXzheC0i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-11" value="rsync传输" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YIFS5euJt_vbsXzheC0i-8">
+          <mxGeometry x="-0.0783" y="24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-7" value="日志抓取脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFS5euJt_vbsXzheC0i-17" value="grocery-redis存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
