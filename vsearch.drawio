@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T07:19:49.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Y8WChTX8I1FmXyVpR0Qx" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T07:27:48.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="U-y4gPvRTr-lSYNOLOTL" version="16.6.1" type="github">
   <diagram id="j-0y-MDL2szn67yI1NpS" name="Page-1">
     <mxGraphModel dx="2495" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NU3mDsQa58ujVHkRj_Ya-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=15;strokeWidth=2;dashPattern=1 1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520" y="1315" as="sourcePoint" />
+            <mxPoint x="800" y="1305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NU3mDsQa58ujVHkRj_Ya-40" value="MetaServer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-160" y="969" width="135" height="80.5" as="geometry" />
         </mxCell>
@@ -228,6 +234,12 @@
           <mxGeometry x="0.0777" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3mDsQa58ujVHkRj_Ya-67" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 17px;&quot;&gt;在线部分&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="1210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NU3mDsQa58ujVHkRj_Ya-68" value="离线部分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="1350" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
